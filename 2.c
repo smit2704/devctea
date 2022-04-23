@@ -10,6 +10,6 @@ void main()
     }
     else
     {
-         printf("The number is negative",a);
+         printf("The number is negative %d",a);
     }    
 }
